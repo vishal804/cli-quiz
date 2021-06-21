@@ -1,0 +1,24 @@
+{
+  "name": "cli-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quiz.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal804/cli-quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal804/cli-quiz/issues"
+  },
+  "homepage": "https://github.com/vishal804/cli-quiz#readme"
+}
